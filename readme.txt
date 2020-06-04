@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
-123456789
+123456789AAAAAAAAA
