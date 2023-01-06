@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T07:16:42.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.8.1" etag="K6paAZ3OotnPwVD2E3PD" type="github"><diagram id="9TpFidteASPE6mtheBFL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-06T08:10:03.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.8.1" etag="ue77SAGtZxuRpbFiWq7a" type="github">
+  <diagram id="Swa6TyRES0FXYkVgXBmu" name="第 1 页">
+    <mxGraphModel dx="989" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jNokgVARLN2FE1-WjVhT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="113" y="33" width="370" height="503" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
+          <mxGeometry x="301" y="214" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+          <mxGeometry x="301" y="426" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+          <mxGeometry x="301" y="39" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="jNokgVARLN2FE1-WjVhT-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="133" y="269" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="286" as="sourcePoint" />
+            <mxPoint x="402" y="494" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="401" y="286" />
+              <mxPoint x="435" y="286" />
+              <mxPoint x="435" y="494" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="278" as="sourcePoint" />
+            <mxPoint x="402" y="109" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="401" y="278" />
+              <mxPoint x="435" y="278" />
+              <mxPoint x="435" y="109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1" source="jNokgVARLN2FE1-WjVhT-13" target="jNokgVARLN2FE1-WjVhT-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="163" as="sourcePoint" />
+            <mxPoint x="113.37" y="163.52900000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="483" y="366" as="sourcePoint" />
+            <mxPoint x="113" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-17" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;三楼&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-18" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;二楼&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="172" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-19" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;一楼&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="377" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-21" value="&lt;b&gt;WAN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="254" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-22" value="&lt;b&gt;LAN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="387" y="257" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-23" value="&lt;b&gt;LAN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="387" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-24" value="&lt;b&gt;LAN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="387" y="83" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-25" value="&lt;b&gt;光猫&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="153" y="294" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-26" value="&lt;b&gt;主路由&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="321" y="294" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-27" value="&lt;b&gt;从路由&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="321" y="506" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-28" value="&lt;b&gt;从路由&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="321" y="117" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="122" y="245" as="sourcePoint" />
+            <mxPoint x="160" y="268" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-30" value="光纤入户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="115" y="222" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNokgVARLN2FE1-WjVhT-31" value="&lt;b&gt;LAN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="387" y="277" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
